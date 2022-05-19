@@ -1,0 +1,19 @@
+{
+    "name": "qi/eduarda_g",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/",
+            "Model\\": "src/model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eduarda garcia"
+        }
+    ],
+    "require": {}
+
+}
+
+

@@ -1,0 +1,15 @@
+.login-central {
+    text-align: center;
+    background-color: rgb(27, 27, 29);
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10%;
+}
+
+footer{
+    color: rgb(221, 69, 9);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 2%;
+}
